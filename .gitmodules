@@ -4,3 +4,6 @@
 [submodule "nvm"]
 	path = nvm
 	url = https://github.com/nvm-sh/nvm.git
+[submodule "git-crypt"]
+	path = git-crypt
+	url = https://github.com/AGWA/git-crypt
